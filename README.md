@@ -23,6 +23,9 @@ CCRep is evaluated on three different code-change-related tasks:
 - Automated Patch Correctness Assessment (APCA)
 - Just-in-time Defect Prediction (JIT-DP)
 
+## Data Preparation
+Due to size limit, we archive our data in the Google Drive and you can download the data from this link: [CCRep-data.zip](https://drive.google.com/file/d/1s4k2KT3p7XrnxbDXvTvzhQexxLCk4dQd/view?usp=share_link). 
+Unzip this file and move the `data` folder to the root of this project to finish preparation of data.
 
 ## Before Running
 To ensure some scripts will work well, you have to do two things first:
