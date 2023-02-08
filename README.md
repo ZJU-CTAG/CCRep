@@ -68,6 +68,21 @@ python tasks/jitdp/jitdp_train_from_config.py -model {token/line/hybrid} -projec
 
 Also, this script will automatically do training, validation and testing, and report the final performance.
 
+# Citation
+If you use this repository, please consider citing our paper:
+
+```
+@inproceedings{liu2023ccrep,
+  title={CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back},
+  author={Liu, Zhongxin and Tang, Zhijie and Xia, Xin and Yang, Xiaohu},
+  booktitle={Proceedings of the 2023 IEEE/ACM 45th International Conference on Software Engineering},
+  pages={1--13},
+  year={2023}
+}
+```
+
+
+
 
 # QA
 1. - Q: My GPU memory is not enough to run the code and always encounter "CUDA out of memory" error:
